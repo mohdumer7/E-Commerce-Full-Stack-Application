@@ -1,3 +1,6 @@
+## This is a full stack Ecommerce Application Built Using Next JS it has all the core functionalities of Ecommerce App other than Auth will add it Soon...!!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
