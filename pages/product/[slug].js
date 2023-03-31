@@ -1,5 +1,5 @@
 import { Product } from "@/components";
-import { useStateContext } from "@/context/stateContext";
+import { useStateContext } from "@/context/StateContext";
 import { client, urlFor } from "@/lib/client";
 import React, { useState } from "react";
 import {
